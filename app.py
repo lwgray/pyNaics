@@ -3,8 +3,10 @@ import os
 from flask import Flask, render_template, request
 from flask.ext.bootstrap import Bootstrap
 from forms import TextForm
-from process.classification import Classify
+# from process.classification import Classify
+from process_text import clean
 import nltk
+import pickle
 
 # Create flask application
 app = Flask(__name__)
@@ -12,11 +14,25 @@ app.config.from_object(os.environ['APP_SETTINGS'])
 
 # Setup Database, bootstrap, login, analytics
 Bootstrap(app)
+with open('pickle/nb_classifier.p', 'r') as csf:
+    nb_classifier = pickle.loads(csf)
 
 
+@app.route('/', method=['GET', 'POST'])
+def index():
+    ''' Get Data from text form and classify '''
+    form = TextForm()
+    answer = None
+    if request.method == "POST":
+        txt = request.form['text']
+'''
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    ''' Get Data from text form '''
+'''
+'''
+    Get Data from text form
+'''
+'''
     form = TextForm()
     test = ''
     answer = None
@@ -32,6 +48,7 @@ def index():
         answer = classifier.classify(test1)
         print answer
     return render_template('index.html', form=form, answer=answer)
+'''
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
