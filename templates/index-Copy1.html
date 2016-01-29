@@ -1,0 +1,12 @@
+{% extends "/base.html" %}
+{% block content %}
+    <form method="post" action="" name="text">
+        {{ form.hidden_tag() }}
+        {{ form.csrf_token }}
+        <p>
+            Please enter your Text:<br>
+            {{ form.text() }}
+        </p>
+        <input name='text' type="submit" value="Go"></p>
+    </form>
+{% endblock %}

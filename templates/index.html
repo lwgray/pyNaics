@@ -1,0 +1,58 @@
+{% extends "bootstrap/base.html" %}
+
+{% block styles %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+{% endblock %}
+
+{% block content %}
+  <div class=row">
+    <div class="col-md-3">
+        <div class="menu-nav-stacked">
+        </div>
+        <div class="col-md-9">
+          <div class="panel-nav-stacked">
+              <h2 class="small-heading small-heading-top">Classify</h2>
+              <p>
+                This endpoint allows you to classify a list of texts. You can target your sandbox or live
+                classifiers.
+              </p>
+              <h2 class="small-heading small-heading-top">Test form</h2>
+              <p>Try the form below to test your trained classifier.</p>
+              <div class="row api-test-form">
+                <div class="col-md-12">
+                  <form method='post' action='' name='text'>
+                    {{ form.hidden_tag() }}
+                    {{ form.csrf_token }}
+                      <div class="panel panel-default form">
+                          <div class="panel-body">
+                            <div class="form-group">
+                              {{ form.text() }}
+                            </div>
+                            <div class="form-group">
+                              <div class="text-right">
+                                  <button type="submit" class="btn btn-primary" name='text' value='go'>
+                                    Submit
+                                  </button>
+                              </div>
+                            </div>
+                          </div>
+                       </div>
+                   </form>
+               </div>
+               <div class="col-md-12" id="test-categorize-result">
+                   <div class="panel panel-default result">
+                       <div class="panel-body">
+                           <div class="results">
+                               <p>
+                                   {{ answer }}
+                               </p>
+                            </div>
+                       </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+{% endblock %}
