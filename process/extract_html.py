@@ -5,7 +5,7 @@ from lxml import etree
 import json
 import requests
 from lxml import html
-import pickle
+import cPickle as pickle
 from tqdm import tqdm
 
 HTMLPARSER = etree.HTMLParser()

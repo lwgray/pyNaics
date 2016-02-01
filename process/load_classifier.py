@@ -1,3 +1,4 @@
+import cPickle as pickle
 from process_text import clean
 
 with open('pickle/nb_classifier.p', 'r') as csf:

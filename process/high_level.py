@@ -1,4 +1,4 @@
-import pickle
+import cPickle as pickle
 from monkeylearn import MonkeyLearn
 ml = MonkeyLearn('87f134f1e1cc67bba8efb449a9e67f68de5a778a')
 module_id = 'cl_RfmStLjx'

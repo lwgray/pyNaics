@@ -1,5 +1,5 @@
 #process
-import pickle
+import cPickle as pickle
 from prettyprint import prettyprint
 
 class Process(object):
