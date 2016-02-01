@@ -1,0 +1,325 @@
+BALTIMORE
+Richard W. Cass
+President
+The Honorable Michael P. Huerta
+Office of the Administrator
+Federal Aviation Administration
+800 Independence Avenue SW
+Washington, DC 20591
+September 23, 2015
+R A V E N S
+RE: Baltimore Ravens Limited Partnership sUAS Petition for Exemption Pursuant to
+FMRA Sec 333 and 14 CFR Part 11
+Dear Administrator Huerta:
+The Baltimore Ravens Limited Partnership ('Ravens') hereby petition the FAA for regulatory r elief
+pursuant to Section 333 ofP.L. 112-95 and 14 C.F.R. Sec. 11.81 to conduct commercial flights using the
+DJI Phantom 2 sUAS, DJI Phantom 3 sUAS, and a tethered sUAS (model to be determined) for
+the following applications:
+• Aerial Data Collection
+The Ravens, therefore, seek a request for exemption from airworthiness and the following specific
+Title 14 C.F.R. provisions:
+• 14 C.F.R. Part 21
+•14 C.F.R. 45.23
+· 14 C.F.R. 61.113(a) (b)
+• 14 C.F.R. 61.133(a)
+·14C.F.R. 91.7(a)
+• 14 C.F.R. 91.9
+• 14 C.F.R. 91.109(a)
+• 14 C.F.R. 91.119
+1 Winning Drive • Owings Mills, Maryland 2!117 • phone 410.701.4000
+2
+• 14 C.F.R. 91.121
+• 14 C.F.R. 91.151(a)
+• 14 C.F.R. 91.203
+• 14 CFR 91.405 (a); 407 (a) (1); 409 (a) (2); 417(a) (b)
+The FAA has issued grants of exemption in circumstances similar in all material respects to those
+presented in this petition, specific Exemptions No. 11062 to Astraeus Aerial, 11109 to Clayco,
+Inc., and 11213 to Aeryon Labs, Inc.: and we therefore request that our petition be granted without
+delay. Additional similar exemptions include (videography) No. 11842, 11843, 11845, 11848, 11850,
+11820, 11822, 11825, 11826, 11829, and 11833, and (aerial data collection) No. 12803, 12792, 12790,
+and 12696.
+The Havens have also provided supporting documentation to include; a General Operations Manual
+(Ravens Manual') which is composed of (1) an operations manual, (2) flight manuals for each of the
+Ravens models: (3) an Operator Training Manual, and (4) a Maintenance and Inspection Manual.
+Please note that all the Ravens Manual (including all of the above listed components) are clearly
+marked "Confidential'' on each page and contain confidential commercial and proprietary
+information that Ravens has not and will not share with others who are not subject to a
+"Nondisclosure Agreement" (NDA). Therefore, the Ravens Manual (including all components) are
+not available to the public and contain operating conditions, procedures and other information that
+are protected from public release or disclosure under the Freedom ofinformationAct 5 USC Sec. 552
+etseq.
+1 Company Description
+This section responds to the specific requirements of 14 CFR Sec 11.81.
+The Baltimore Ravens Limited Partnership is a professional sports team operating in an
+environment where seeking a competitive advantage over your opponents is the key to success. The
+Baltimore Ravens Video Department seeks to utilize UAS to gain superior video perspectives of
+practices to assist coaches and players in evaluation and strategy sessions as well as producing
+promotional material effectively and safely.
+Mailing address and other contact information. ATTN:
+Mark Bienvenu
+Baltimore Ravens Limited Partnership
+1 Winning Drive
+Owings Mills, MD 21117
+Email: Mark.Bienvenu@ravens.nfl
+2 Relevant Statutory Authority
+This exemption application is expressly submitted to fulfill Congress' goal in passing Section 333(a)
+through (c) of the P.L. 112-95, the FAA Modernization and Reform Act ('Reform Act'). This law
+directs the Secretary of Transportation to consider whether certain unmanned aircraft systems may
+3
+operate safely in the national airspace system (NAS) before completion of the rulemaking required
+under Section 332 of the Reform Act. In making this determination, the Secretary is required to
+determine which types of UASs do not create a hazard to users of the NAS or the public or pose a
+threat to national security in light of the following:
+• The UAS's size, weight, speed, and operational capability;
+• Operation of the UAS in close proximity to airports and populated areas; and
+• Operation of the UAS within visual line of sight of the operator.1
+Lastly, if the Secretary determines that such vehicles "may operate safely in the national airspace
+system, the Secretary shall establish requirements for the safe operation of such aircraft in the
+national airspace system."2
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. This
+statutory authority by its terms includes exempting civil aircraft, as the term is defined under
+§40101 of the Act, that includes sUASs, from the requirement that all civil aircraft must have a
+current airworthiness certificate
+3 Qualification for Approval Under Section 333 of the Reform Act
+The proposed operations in this petition for exemption qualify for expedited approval under Sec·
+tion 333 of the Reform Act. Each of the statutory criteria and other potentially relevant factors are
+satisfied. The requested exemption would permit Ravens to perform commercial operations under
+controlled conditions in airspace that is 1) limited 2) predetermined 3) restricted, limited, or controlled
+as to access and 4) would provide safety enhancements to the already safe operations in these
+industries presently using conventional aircraft. Approval of this exemption would thereby enhance
+safety and fulfill the Secretary of Transportation's (the FAA Administrator's) responsibilities to
+"estabhsh requirements for the safe operation of such aircraft systems in the national airspace system."
+Section 333(c) of the Reform Act.
+Each Ravens sUAS weighs 55 lb. or less including payload. Each Ravens sUAS operates under
+normal conditions at a speed of no more than 87 knots. Each Ravens sUAS has the capability to
+operate in either Automatic' or Manual' mode as described in the Ravens Manual.
+Generally Ravens s UAS operations will be below an altitude of 400ft. AGL, within specific accessrestricted
+areas, either within Class G airspace or with the permission of the ATC, using s UAS
+operated by Ravens·qualified s UAS pilots, and within the visual line of sight of the operator and
+observer. Such operations will insure that the sUAS will "not create a hazard to users of the National
+Airspace System or the public" as per the FMRA 2012 Section 333. Given the size of the sUAS and
+the operating environment, this petition for exemption meets an equivalent level of safety, in which
+Congress envisioned that the FAA must, by exemption allow commercial operations of UASs to
+commence innnediately. Also due to the size and enviromnent, approval of the application presents no
+national security issue.
+1Public Law 112-95, 'FAA Modernization and Reform Act' Section 333 (a)
+2!d. §333(c).
+4
+Considering the clear direction in Section 333 of the Reform Act, the authority contained in the
+Federal Aviation Act, as amended, the equivalent level of safety surrounding the proposed operations,
+and the significant public benefit described herein, the grant of the requested exemptions is
+also in the public interest.
+4 Ravens Description of Proposed Operations
+Ravens operations will provide a level of safety that is equivalent to current aviation standards.
+Ravens safety procedures, risk assessments, and flight operations standards are described in detail in
+the accompanying Ravens Manual. In brief, the following procedures that apply during operations
+conducted under this exemption request, establish an equivalent level of safety (ELOS) as follows:
+1. The s UAS will weigh less than 55 lb.
+2. Flights will be operated within line of sight of a pilot and/or observer.
+3. Flights will occur during daylight hours.
+4. Flights will occur during Visual Flight Rules Meteorological Conditions (VMC).
+5. Flights will generally be operated at an altitude of no more than 400 feetAGL and within Class
+G airspace. Operations in controlled B,C, or D airspace will be conducted in coordination with
+the proper FSDO and ATC with prior permission.
+6. Flights will be terminated at 25% battery power reserve should that occur during the operation.
+7. All Ravens s UAS will be U.S. registered and display marks either in accordance with 14 C.F.R.
+Part 45, Subpart C or approved alternative markings.
+8. Operations will be conducted in defined regions and over property authorized for this use by the
+landowner. All operations will remain within the geographic boundaries of the operating area.
+Most operations may be conducted within the limitations of the blanket COA authorization
+provided with 333 grants as of 3/23/2015.
+9. All required permissions and permits will be obtained from territorial, state, county or city
+jurisdictions, including local law enforcement, fire, or other appropriate governmental agencies.
+10. The operator will obtain the permission of the site owner prior to conducting operations.
+Ravens staff or team members will be notified prior to the operation. Non-participants including
+spectators will be notified prior to any actual flight operations. Ravens sUAS will
+remain a safe distance away from nonparticipants including spectators. Specific separation
+requirements will be stated in the Ravens sUAS Operating Manual.
+11. A briefing will be conducted in regard to the planned sUAS operations prior to each day's
+activities. It will be mandatory that all personnel who will be performing duties within the
+boundaries of the safety perimeter be present for this briefing.
+12. Minimum crew for each operation will consist of the sUAS Pilot, the Visual Observer, and/or
+the Camera Operator.
+5
+13. Operations without a Visual Observer (sUAS Pilot only) may occasionally be conducted subject
+to additional and specifi aircraft equipment, operator competency, and flight restrictions
+(maximum distance from the sUAS Pilot, maximum altitude, and maximum speed) as defined in
+the Ravens s UAS Operations Manual.
+14. sUAS operations under this exemption will be conducted under the supervision of a designated
+pilot in command (PI C) who has final responsibility for the operation and in accordance with 14
+C.F.R. 91.3. All sUAS operators must have completed training on the normal, abnormal, and
+emergency procedures in the Ravens Manual and demonstrated proficiency with the sUAS being
+operated. The PIC will meet at least the minimum FAA sUAS regulations for licensure.
+Currently, therefore, Ravens PICs must possess at least a sport pilot certificate and hold a
+valid U.S. driver's license, unless alternative proposed in Ravens manual is approved by the
+FAA.
+15. s UAS Pilot will be Pilot in Command (PIC). If a pilot certificate holder other than the
+s UAS Pilot, who possess the necessary PIC qualifications, is also present (i.e. the Visual
+Observer), that person can also be designated as the PIC.
+16. Observer and pilot will at all times be able to maintain verbal communication, either directly or
+through electronic means.
+17. Operators and engineers will maintain the sUAS system in a condition for safe operation ac·
+cording to the Ravens Manual and associated manufacturer's maintenance manuals, including
+pre-flight and post-flight inspections.
+18. The PIC and observers will maintain situational awareness and perceive, process, and perform
+risk management prior to and during each operation as described in the Ravens Manual. The
+PIC will terminate the operation in accordance with the Ravens Manual if hazards that cannot
+be acceptably mitigated are observed.
+19. sUAS will safely stop operating and either return home or auto-land at a safe location along
+the flight path if the control link is lost.
+20. For each sUAS, the PIC will have the ability to force a controlled landing at any time.
+In addition to the above, the Ravens have implemented a Safety Management System. The Ravens
+Safety Manager is responsible for conducting safety audits, investigations, and inspections and is
+authorized to stop or prohibit any activity or operations which is considered unsafe. Full details
+are available in the Ravens Manual.
+5 Regulations From Which Exemption is Requested
+5.1 Part 61, Certification: Pilots, Flight Instructors, and Ground Instructors
+Extent of Relief
+Part 61, all sections.
+6
+Reason for Relief
+Because the UAS will not carry a pilot or passengers, the proposed operations can achieve the
+equivalent level of safety of current operations by requiring the PIC operating the aircraft to have at
+least a sport pilot's license rather than a commercial pilot's license to operate these sUAS.
+Equivalent Level of Safety
+Unlike a conventional aircraft that carries the pilot and passengers, the sUAS is remotely controlled
+with no living thing on board. The area of operation is controlled and restricted, and all flights
+are planned and coordinated in advance as set forth in the General Operations Manual (GOM).
+The level of safety provided by the requirements included in the GOM exceeds that provided by a
+single individual holding a commercial pilot's certificate operating a conventional aircraft. The
+risks associated with the operation of the sUAS are so diminished from the level ofrisk associated
+with commercial operations contemplated by Part 61 when drafted, that allowing operations of
+the sUAS as requested with a sport pilot certificate as the PIC exceeds the present level of
+safety achieved by 14 C.F.R. §61.113 (a) & (b).
+5.2 61.113 Private pilot privileges and limitations: Pilot in command.
+Extent of Relief
+Relief from requirement to possess a private or commercial pilot's license for aerial work such as
+aerial survey and mapping.
+Reason for Relief
+§61.113 (a) stipulates that a holder of a private pilot certificate may not act as a pilot in command
+of an aircraft for compensation or hire: (b) states that a private pilot may act as PIC if the flight is
+incidental to business and does not carry passengers or property. Furthermore, N-8900.227 "Unmanned
+Aircraft Systems (UAS) Operational Approval'' paragraph 16(c)(2)(c) "Operations without a
+pilot certificate" states that a operations which conform to said paragraph may be performed by a
+PIC that does not possess a private pilots license but that has completed FAA private pilot ground
+instruction and passed the FAA Private Pilot written test. In addition, there is no means currently of
+obtaining a commercial rating for UAS. Thus, we require relief in order to perform aerial work.
+Public Benefit
+As described above, the public benefit includes exponential economic growth, enhanced safety, and
+improved precision agriculture capabilities. In general, commercial small UAS operations provide
+aerial services which are affordable to small businesses, something that would not be possible without
+UAS technology.
+Equivalent Level of Safety
+Our operations fulfill all the requirements in N-8900.227 16(c)(2)(c) for operations without a private
+pilots license.
+7
+5.3 91.7 Civil aircraft airworthiness.
+Extent of Relief
+91. 7, all provisions.
+Reason for Relief
+Should the exemption be granted allowing commercial operation of the s UAS without an airwor
+thiness certificate no standard will exist for airworthiness ofthe sUAS.
+Equivalent Level of Safety
+Given the size and weight of these aircraft and the requirements contained in the GOM, an equivalent
+level of safety will be achieved by insuring compliance with the sUAS user manuals prior to each
+flight.
+5.4 91.119, Minimum safe altitudes: General.
+Extent of Relief
+Section 91.119 establishes safe altitudes for operation of civil aircraft. 91.119(c) limits aircraft flying over
+areas other than congested areas to an altitude of 500 feet above the surface, except over open water or
+sparsely populated areas, and the aircraft may not be operated closer than 500 feet to any person,
+vessel, vehicle, or structure.
+Reason for Relief
+To provide for these operations, the s UAS are normally operated at or below 400 feet AGL. In
+addition, due to the nature of the proposed operations, the PIC and the observer may at times be
+less than 500 feet away from structures during the operation.
+Equivalent Level of Safety
+The equivalent level of safety will be achieved given the size, weight, and speed of the UAS as well
+as the location where it is operated. No flight will be taken without the required permission of the
+property owner and local officials, and advanced notice to participants and spectators. Because of the
+advance notice all affected individuals will be aware of the planned flight. Compared to flight
+operations with aircraft or rotorcraft weighing far more than the maximum 55lbs. described above
+and the lack of flammable fuel, any risk associated with these operations is far less than those
+presently conducted with conventional aircraft operating at or below 500 AGL in other industries. In
+addition, the low· altitude operations of the s UAS will ensure separation between these s UAS
+operations and the operations of conventional aircraft that must comply with Section 91.119.
+5.5 91.121 Altimeter Settings
+Extent of Relief
+§91.121
+8
+Reason for Relief
+As the sUAS may not have a barometric altimeter, but instead a GPS altitude read out, an exemp·
+tion may be needed.
+Equivalent Level of Safety
+An equivalent level of safety will be achieved by the operator, pursuant to the GOM and the Safety
+Check list, confirming the altitude of the launch site shown on the GPS altitude indicator before
+flight.
+5.6 91.151, Fuel requirements for flight in VFR conditions.
+Extent of Relief
+§91.151, all provisions.
+Reason for Relief
+The provision requires fuel sufficient for one half hour flight beyond the destination. These sUAS,
+including today's longest endurance platforms, are unable to meet this requirement because of limited
+max flight times.
+Equivalent Level of Safety
+An equivalent level of safety can be achieved by limiting flights for the s UAS according to the safety
+limitations described in the GOM. This restriction would be more than adequate to return the
+s UAS to its planned landing zone from anywhere in its limited operating area.
+5.7 91.405, 91.407, 91.409, 91.417 Inspection and Maintenance Programs
+Extent of Relief
+§§91.405, Maintenance required; 91.407, Operation after maintenance, preventive maintenance, rebuilding,
+or alteration; 91.409, Inspections; and 91.417, Maintenance records.
+Reason for Relief
+The part 91 provisions are not applicable to a s UAS of the described weight class. Furthermore,
+FAA certified mechanics for s UAS do not at this present time exist, so full compliance is not possible.
+The s UAS flown are modular and as such entire components including engines and propellers are
+minor replacements rather than major repairs. Finally, continuous minor alterations and payload
+reconfigurations of sUAS are designed and required for the operation of sUAS and do not negatively
+impact airworthiness.
+9
+Equivalent Level of Safety
+Inspection and maintenance manuals are used to maintain the sUAS in airworthy condition. Each
+s UAS is maintained according to the manufacturer standard or higher by technicians proficient in
+the building, repair, and maintenance of the sUAS. Inspection and Maintenance manuals utilized
+contain all aircraft-relevant items as described in (43 Appendix D (Scope and Detail of Items).
+Finally, maintenance records are maintained in the Operations Database; either online on the
+Skyward Platform and are therefore immediately auditable by regulators on demand, or as otherwise
+determined by Ravens.
+6 Public Interest
+The Ravens believe that the enhanced safety achieved using a sUAS with the specifications described in
+this petition and supporting documents and by carrying no passengers or crew, rather than a
+manned aircraft of significantly greater proportions carrying crew in addition to flammable fuel,
+gives the FAA good cause to find that the UAS operations enabled by this exemption are in the
+public interest.
+The outputs of safe, reliable, and regulatory compliant operations of sUAS provide economic benefits
+historically unparalleled since the invention of flight, benefiting stakeholders at every level, both
+public and private. Lawful, safe aerial robotics operations will create new high-tech employment
+that will stimulate city and state governments; improve industries, create new small and large
+businesses; infuse new interest in STEM for children; and increase the safety of citizens through
+enhanced first-responder capabilities.
+7 Privacy
+All flights will occur over private, limited, or restricted-access areas with the property owner's prior
+consent and knowledge. Operations will be conducted by trained crew and all other individuals will
+either be a part of the operation or consent to be present at the time of operations.
+8 Federal Register Summary
+Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the Federal
+Register, should it be determined that publication is needed:
+Applicant seeks an exemption from the following rules: 14 C.F.R. §21, subpart H; 14 C.F.R
+45.23(b);14 C.F.R. §§61.113( a) & (b), 61.133(a); 91.7 (a); 91.9 (b) (2); 91.109; 91.119; 91.121;
+91.151(a);91.203(a) and (b); 91.405 (a); 91.407 (a) (1); 91.409 (a) (2); 91.409 (a) (2) and 91.417 (a)
+& (b) to operates UAS for commercial use.
+9 Conclusion
+The Ravens seek this exemption to conduct commercial operations using sUAS within restrictedaccess
+areas in the NAS. Without this exemption, sUAS innovation will be suppressed, the public
+10
+economic benefits derived from increased s UAS development will be denied, and the Congressional
+directive to accelerate the integration ofUAS into the NAS will be impeded. The sUAS physical and
+operational characteristics are compliant with those described in the FMRA and FAA's guidance for
+Sec 333 exemptions. The Ravens respectfully request that the FAA gmnt its petition for exemption
+from airworthiness.
+Please do not hesitate to contact Andrew McCollough, the Regulatory Services POC, via email at
+exemption@skyward.io if you have any questions or concerns.
+Very Respectfully Yours,
+Baltimore Ravens Limited Partnership
+Richard W. Cass
+President
