@@ -101,6 +101,7 @@ def split_label_feats(lfeats, split=0.75):
         test_feats.extend([(feat, label) for feat in feats[cutoff:]])
     return train_feats, test_feats
 
+
 if __name__ == '__main__':
     lfeats = label_feats_from_corpus()
     train_feats, test_feats = split_label_feats(lfeats, split=0.75)
