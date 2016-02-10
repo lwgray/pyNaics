@@ -1,6 +1,11 @@
 import cPickle as pickle
 from yhat import Yhat, YhatModel, preprocess
+import os
 
+
+username = os.environ['USERNAME']
+yhat_key = os.environ['YHAT_KEY']
+yhat_url = os.environ['YHAT_URL']
 
 with open('../pickle/nb_classifier.cp', 'r') as clf:
     nb_classifier = pickle.load(clf)
@@ -33,10 +38,6 @@ class NbClassifier(YhatModel):
         answer = category[answer]
         return answer
 
-yh = Yhat(
-    "lwgray@gmail.com",
-    "0157a549d06212497e06dd50571adda0",
-    "https://sandbox.yhathq.com"
-)
+yh = Yhat(username, yhat_key, yhat_url)
 
 yh.deploy("NbClassifier", NbClassifier, globals())

@@ -35,5 +35,23 @@ def index():
         return render_template('index.html', form=form, answer=answer, txt=txt)
 
 
+@app.route('/model1', methods=['GET', 'POST'])
+def model1():
+    ''' Get Data from text form and classify '''
+    txt = 'Enter Regulation Summary here....'
+    form = TextForm()
+    answer = 'The predicted category will appear here!'
+    if request.method == "POST":
+        txt = request.form['text']
+        data = clean(txt)
+        data = json.dumps(data)
+        r = requests.post('https://sandbox.yhathq.com/lwgray@gmail.com/models/NbClassifier', data=data, auth=('lwgray@gmail.com', '0157a549d06212497e06dd50571adda0'))
+        answer = r.text
+        answer = json.loads(answer)
+        answer = answer['result']
+        return render_template('model1.html', form=form, answer=answer, txt=data)
+    else:
+        return render_template('model1.html', form=form, answer=answer, txt=txt)
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
