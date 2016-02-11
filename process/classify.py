@@ -5,7 +5,7 @@ import nltk
 a = Classify()
 data = a.compose_high_level_samples()
 test = ''
-with open('test3.txt', 'r') as txt:
+with open('../txt/test3.txt', 'r') as txt:
     for line in txt:
         test += line
 test1 = {'sentence': test}

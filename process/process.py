@@ -48,7 +48,7 @@ class Process(object):
         return
 
 if __name__ == '__main__':
-    text = Process('pickle/naics.p')
+    text = Process('../pickle/naics.p')
     data = text.get_sectors()
     print len(data), '\n'
     for key, value in data.iteritems():

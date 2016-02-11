@@ -8,7 +8,7 @@ class Classify(object):
 
     def compose_high_level_samples(self):
         ''' organize naics data by highest category '''
-        with open('pickle/naics_corpus_level3.p', 'r') as txt:
+        with open('../pickle/naics_corpus_level3.p', 'r') as txt:
             data = cPickle.load(txt)
             for i in data.keys():
                 key = data[i][i].keys()[0]
