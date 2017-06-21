@@ -11,6 +11,8 @@ import json
 # Create flask application
 app = Flask(__name__)
 app.config.from_object(os.environ['APP_SETTINGS'])
+username = os.environget("USERNAME")
+pswd = os.environ.get('PSWD')
 
 # Setup Database, bootstrap, login, analytics
 Bootstrap(app)
@@ -26,7 +28,7 @@ def index():
         txt = request.form['text']
         data = clean(txt)
         data = json.dumps(data)
-        r = requests.post('https://sandbox.yhathq.com/lwgray@gmail.com/models/NbClassifier', data=data, auth=('lwgray@gmail.com', '0157a549d06212497e06dd50571adda0'))
+        r = requests.post('https://sandbox.yhathq.com/lwgray@gmail.com/models/NbClassifier', data=data, auth=(username, pswd))
         answer = r.text
         answer = json.loads(answer)
         answer = answer['result']
@@ -45,7 +47,7 @@ def model1():
         txt = request.form['text']
         data = clean(txt)
         data = json.dumps(data)
-        r = requests.post('https://sandbox.yhathq.com/lwgray@gmail.com/models/NbClassifier', data=data, auth=('lwgray@gmail.com', '0157a549d06212497e06dd50571adda0'))
+        r = requests.post('https://sandbox.yhathq.com/lwgray@gmail.com/models/NbClassifier', data=data, auth=(username, pswd))
         answer = r.text
         answer = json.loads(answer)
         answer = answer['result']
